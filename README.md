@@ -1,9 +1,9 @@
 # LIY - Learn It Yourself
 
-## Aim
+## Aim and Motivation
 
-The aim of this project is to build a resource archive which will serve course playlits and other stuff related to Programming and CS to help the ones who want to go through the journey of self learning and growth.
+The aim of this project is to help beginner developers and students who are trying to learn things by themselves, by providing resources to help and guide them in this journey of self-learning.
 
-## Motivation
+## About this repository
 
-The motivation behind this project was the 
+This repository is designed as an archive which contains links to courses,video playlists, books and other resources for various programming languages, frameworks and other related technologies. Currently, resources are available only for Java but I intend to expand this in future.
